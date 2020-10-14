@@ -1,6 +1,6 @@
 # Technical
 1. Language: PHP
-2. Tool: Selenium Webdriver
+2. Tool & FW: Selenium Webdriver + Codeception
 # Evironment
 Joomla Web
 # Features test

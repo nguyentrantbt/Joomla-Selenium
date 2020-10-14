@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+        "codeception/codeception": "3.1",
+	    "joomla-projects/joomla-browser": "dev-develop",
+        "fzaninotto/faker": "^1.5"
+    }
+}
